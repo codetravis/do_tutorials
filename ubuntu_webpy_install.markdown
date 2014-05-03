@@ -18,12 +18,12 @@ It should output:
     python 2.7.4
 
 
-Or something similar.
+Or something similar. You should have at least version 2.7 installed.
 
 
 ## Install Web.py Using Pip
 
-Using Pip, installing web.py is fairly straightforward. But first you need to sintall pip. In Ubuntu, this is easily done using the package manager.
+Using Pip, installing web.py is fairly straightforward. But first you need to install pip. In Ubuntu, this is easily done using the package manager.
 
     sudo apt-get install python-pip
 
@@ -53,12 +53,11 @@ Once this is done, you have two options:
 
 1. Move or copy the `web` folder that is in this directory into your project directory to make it accessible to just that project.
 
-        cp web /path/to/project/.
+        cp -r web /path/to/project/.
 
 
 2. Or install web.py to make it accessible to all applications.
 
-        cd web
         sudo python setup.py install
 
 
