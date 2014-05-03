@@ -2,7 +2,7 @@
 
 ## Introduction
 
-When it comes to Python, there is no shortage of web frameworks to choose from. Web.py is a small python web framework created by Aaron Swartz and is designed to allow you to be able to truly let you write web apps in Python.  It can be very rewarding to work with and is fairly easy to install.
+When it comes to Python, there is no shortage of web frameworks to choose from. [Web.py](http://webpy.org) is a small python web framework created by Aaron Swartz and is designed to allow you to be able to truly let you write web apps in Python.  It can be very rewarding to work with and is fairly easy to install.
 
 The following set of instructions were performed on an Ubuntu 12.04 VPS.
 
